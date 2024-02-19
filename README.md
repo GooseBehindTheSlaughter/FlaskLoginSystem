@@ -9,3 +9,4 @@ As of writing theres no create account function so run the test with the registe
 - Something to actually do on the homepage
 - Reset password
 - Admin functions / dashboard
+- profile pictures and view yourprofile
