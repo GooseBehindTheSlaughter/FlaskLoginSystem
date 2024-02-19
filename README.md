@@ -4,3 +4,8 @@ A simple flask Script that allows for users to login with basic user token manag
 ## Usage
 As of writing theres no create account function so run the test with the register user to work
 
+### To add
+- User register
+- Something to actually do on the homepage
+- Reset password
+- Admin functions / dashboard
